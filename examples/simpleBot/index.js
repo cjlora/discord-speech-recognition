@@ -33,4 +33,4 @@ client.on("ready", () => {
   console.log("Ready!");
 });
 
-client.login("token");
+client.login("OTk1Njg2NTM2NjgxMDk1MzUw.GreDx3.SKSUZhpHlBhlMoCns_Hhj93Bjhg70Fq1pN0jd4");
